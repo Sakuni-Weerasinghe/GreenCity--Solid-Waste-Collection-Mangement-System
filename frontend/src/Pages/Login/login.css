@@ -1,0 +1,28 @@
+.logincontainer{
+    border: 1px solid #c5c7c0;
+    border-radius: 10px;
+  }
+  
+  
+  .container button{
+    background-color: #778c17;
+    border: none;
+  }
+  
+  .container input{
+    border-radius: 20px;
+    background-color: rgba(119, 140, 23,0.2);
+  }
+  
+  .container input:focus{
+    background-color:#c5c7c0;
+    border: 1px solid #aab398;
+    box-shadow: none;
+  }
+  
+  .container button:focus {
+    border: none;
+    box-shadow: none;
+    background-color: #778c17;
+  }
+  
